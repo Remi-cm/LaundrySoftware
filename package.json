@@ -13,7 +13,7 @@
     "axios": "^0.19.1",
     "bootstrap": "^4.4.1",
     "json-query": "^2.2.2",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "mdbreact": "^4.24.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
